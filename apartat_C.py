@@ -54,12 +54,12 @@ y = data[:, 15]
 
 ############
 
-plt.figure()
-plt.title("Histograma de l'atribut 0")
-plt.xlabel("Attribute Value")
-plt.ylabel("Count")
-hist = plt.hist(x[:,15], bins=11, range=[np.min(x[:,15]), np.max(x[:,15])], histtype="bar", rwidth=0.8)
-plt.show()
+# plt.figure()
+# plt.title("Histograma de l'atribut 0")
+# plt.xlabel("Attribute Value")
+# plt.ylabel("Count")
+# hist = plt.hist(x[:,15], bins=11, range=[np.min(x[:,15]), np.max(x[:,15])], histtype="bar", rwidth=0.8)
+# plt.show()
 
 ############
 
@@ -80,13 +80,6 @@ import seaborn as sns
 # relacio = sns.pairplot(dataset)
 # plt.show()
 
-############
-
-# Quin és el tipus de cada atribut?
-
-# Quins atributs tenen una distribució Guassiana?
-
-# Quin és l'atribut objectiu? Per què?
 
 ############
 ############
