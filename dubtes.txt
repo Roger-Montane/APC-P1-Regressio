@@ -1,0 +1,3 @@
+- els errors sense normalitzar son molt grans, i quan normalitzem els score 
+dels atributs son molt petits
+- gradient
