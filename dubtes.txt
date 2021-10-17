@@ -1,3 +1,5 @@
 - els errors sense normalitzar son molt grans, i quan normalitzem els score 
 dels atributs son molt petits
 - gradient
+- enllaç: https://www.kaggle.com/marklvl/bike-sharing-dataset/code?datasetId=28865&sortBy=voteCount
+	fa la regressio amb reg i count??
